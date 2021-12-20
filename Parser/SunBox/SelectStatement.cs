@@ -21,6 +21,8 @@ namespace sql
         override public void write_data()
         {
             Console.WriteLine(columns[0].Operand1);
+            Console.WriteLine(columns[0].Operand2);
+            Console.WriteLine(columns[0].Operation);
         }
 
     }

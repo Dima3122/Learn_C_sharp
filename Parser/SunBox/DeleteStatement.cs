@@ -8,22 +8,24 @@ namespace sql
 {
     class DeleteStatement : SqlStatement
     {
-        private List<ColumnDef> columns;
-        public void set_columns(ColumnDef columns)
+        private List<Expression> columns;
+        public void set_columns(Expression columns)
         {
             this.columns.Add(columns);
         }
-        public List<ColumnDef> get_columns()
+        public List<Expression> get_columns()
         {
             return columns;
         }
         public DeleteStatement()
         {
-            columns = new List<ColumnDef>();
+            columns = new List<Expression>();
         }
         override public void write_data()
         {
-            Console.WriteLine(columns[0].TypeName_or_value);
+            Console.WriteLine(columns[0].Operand1);
+            Console.WriteLine(columns[0].Operand2);
+            Console.WriteLine(columns[0].Operation);
         }
     }
 }

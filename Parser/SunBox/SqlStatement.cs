@@ -30,15 +30,7 @@ namespace sql
     };
     abstract class SqlStatement
     {
-        protected string sql_script;
-        public virtual void set_sql_script(string sql_script)
-        {
-            this.sql_script = sql_script;
-        }
-        public virtual string get_sql_script()
-        {
-            return sql_script;
-        }
+        public string TableName { get; set; }
         public abstract void write_data();
         ~SqlStatement(){}
     }

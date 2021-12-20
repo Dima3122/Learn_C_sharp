@@ -10,7 +10,7 @@ namespace sql
     {
         override public void write_data()
         {
-            Console.WriteLine(sql_script);
+            Console.WriteLine(TableName);
         }
     }
 }
