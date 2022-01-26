@@ -1,0 +1,7 @@
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\bin\Debug\AnonType.exe.config
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\bin\Debug\AnonType.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\bin\Debug\AnonType.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\obj\Debug\AnonType.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\obj\Debug\AnonType.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\obj\Debug\AnonType.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\AnonType\obj\Debug\AnonType.pdb

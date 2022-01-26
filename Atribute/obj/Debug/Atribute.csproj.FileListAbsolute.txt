@@ -1,0 +1,7 @@
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\bin\Debug\Atribute.exe.config
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\bin\Debug\Atribute.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\bin\Debug\Atribute.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\obj\Debug\Atribute.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\obj\Debug\Atribute.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\obj\Debug\Atribute.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Atribute\obj\Debug\Atribute.pdb

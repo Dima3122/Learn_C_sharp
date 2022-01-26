@@ -1,0 +1,12 @@
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\WorkInBD.exe.config
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\WorkInBD.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\WorkInBD.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\obj\Debug\WorkInBD.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\obj\Debug\WorkInBD.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\obj\Debug\WorkInBD.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\obj\Debug\WorkInBD.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\EntityFramework.dll
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\EntityFramework.SqlServer.dll
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\EntityFramework.xml
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\bin\Debug\EntityFramework.SqlServer.xml
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\WorkInBD\obj\Debug\WorkInBD.csproj.CopyComplete

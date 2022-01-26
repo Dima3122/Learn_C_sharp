@@ -1,0 +1,7 @@
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\bin\Debug\Testing.exe.config
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\bin\Debug\Testing.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\bin\Debug\Testing.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\obj\Debug\Testing.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\Testing\obj\Debug\Testing.pdb

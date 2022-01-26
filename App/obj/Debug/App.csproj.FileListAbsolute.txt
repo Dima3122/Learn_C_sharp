@@ -1,0 +1,7 @@
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\bin\Debug\App.exe.config
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\bin\Debug\App.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\bin\Debug\App.pdb
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\obj\Debug\App.exe
+D:\програмирование\программы\Изучение C#\Sunbox\SunBox\App\obj\Debug\App.pdb
